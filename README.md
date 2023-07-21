@@ -1,6 +1,6 @@
 # Description
 
-This project was inspired by an 8 hour Youtube coding challenge which helped me put my skills learned in my Fullstack bootcamp to the test. This project was created using React and Firebase for Hosting and Deployment. 
+This project was inspired by an 8 hour Youtube coding challenge which helped me put skills learned in my Fullstack bootcamp to the test. This project was created using React and Firebase for Hosting and Deployment. 
 
 
 # Getting Started with Create React App
@@ -50,6 +50,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Firebase was used to deploy and Host this application. 
 
-### `npm run build` fails to minify
 
 
